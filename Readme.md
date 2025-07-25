@@ -27,5 +27,6 @@ https://github.com/ishita-sudo/YouTube-Notes-Generator/tree/main/backend
 
 and 
 ## Frontend 
+https://github.com/ishita-sudo/YouTube-Notes-Generator/blob/main/frontend/Readmef.md
 
-Guide
+Guide ❤️

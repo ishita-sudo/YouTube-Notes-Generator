@@ -37,8 +37,11 @@ https://github.com/ishita-sudo/YouTube-Notes-Generator/blob/main/frontend/Readme
 ## ⚠️Known issues and Limitations:
 This will not work once deployed!!
 ### cause
+- This application relies on the youtube-transcript-api library to fetch video transcripts. This library works by making requests to YouTube's servers, effectively "scraping" the transcript data.
+---
 -  The backend is deployed on render's free tier , on a cloud ip
 - YouTube blocks cloud ip to prevent abuse , scraping , bot behavior
+---
 ### solution
 - But this will work with paid rotating residential proxy services
 - which is beyond the scope of this free project

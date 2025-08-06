@@ -1,5 +1,8 @@
 # 🆓Free YouTube video to Notes Generator
 ![alt text](<assets/Screenshot 2025-07-25 202517.png>)
+## Live Demo 🌐
+http://ytnotes.gamer.gd/
+
 ## Tech stack used:
 ## Frontend
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
